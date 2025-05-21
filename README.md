@@ -33,14 +33,6 @@ The game is built using standard web technologies:
 - First-click protection
 - Question mark flags
 
-## Author
-
-| Field    | Value                            |
-|----------|----------------------------------|
-| Name     | Massimo                          |
-| Surname  | Vecoli                           |
-| Address  | Bennenbodenbain 3, 3032 Wohlen bei Bern |
-
 ## License
 
 This project is open source and available under the MIT License.
