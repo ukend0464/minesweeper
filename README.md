@@ -44,10 +44,12 @@ ukend0464 is a developer with a passion for:
 - Reviving classic games with modern implementations
 - Game development using Godot engine
 - Exploring new programming challenges
+- Travel and adventure, with current plans to move to South America
 
 ## Other Projects by the Author
 
 - **Jupiter Star**: A space exploration game where you navigate the solar system, built with Godot game engine. Currently in concept phase.
+- **Adventure**: Planning a significant life change with a move to South America. This ongoing personal project represents the author's adventurous spirit and desire to experience new cultures.
 
 ## License
 
