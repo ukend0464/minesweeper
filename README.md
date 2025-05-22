@@ -33,6 +33,13 @@ The game is built using standard web technologies:
 - First-click protection
 - Question mark flags
 
+## About the Author
+
+This project is maintained by Massimo Vecoli, a software developer with a passion for classic games and open-source development. Massimo is currently developing multiple game projects including:
+
+- **Minesweeper**: A modern implementation of the classic puzzle game
+- **Jupiter Star**: An exciting space exploration game built with the Godot game engine
+
 ## License
 
 This project is open source and available under the MIT License.
