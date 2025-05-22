@@ -33,15 +33,6 @@ The game is built using standard web technologies:
 - First-click protection
 - Question mark flags
 
-## About the Author
-
-Massimo Vecoli is a passionate game developer based in Wohlen bei Bern, Switzerland. With a strong interest in creating engaging gaming experiences, Massimo is working on multiple exciting projects:
-
-- **Minesweeper**: An open-source implementation of the classic game with modern features and cross-platform compatibility.
-- **Jupiter Star**: An exciting space exploration game where players navigate the solar system. This project is currently in conceptual stage and is being developed using the Godot game engine.
-
-Massimo is committed to open-source development and welcomes contributions to his public projects. His development philosophy focuses on creating clean, accessible, and enjoyable gaming experiences for players of all skill levels.
-
 ## License
 
 This project is open source and available under the MIT License.
