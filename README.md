@@ -33,24 +33,6 @@ The game is built using standard web technologies:
 - First-click protection
 - Question mark flags
 
-## Author
-
-This project was created by ukend0464, a web developer passionate about creating interactive games using web technologies. The author is particularly interested in classic games and making them accessible on modern platforms.
-
-## About the Author
-
-ukend0464 is a developer with a passion for:
-- Creating interactive games using web and game engine technologies
-- Reviving classic games with modern implementations
-- Game development using Godot engine
-- Exploring new programming challenges
-- Travel and adventure, with current plans to move to South America
-
-## Other Projects by the Author
-
-- **Jupiter Star**: A space exploration game where you navigate the solar system, built with Godot game engine. Currently in concept phase.
-- **Adventure**: Planning a significant life change with a move to South America. This ongoing personal project represents the author's adventurous spirit and desire to experience new cultures.
-
 ## License
 
 This project is open source and available under the MIT License.
