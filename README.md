@@ -33,6 +33,14 @@ The game is built using standard web technologies:
 - First-click protection
 - Question mark flags
 
+## About the Author
+
+Massimo Vecoli is a passionate developer with a love for creating engaging games and applications. Based in Switzerland, Massimo enjoys building open-source projects that are both educational and entertaining.
+
+### Other Projects by Massimo
+
+- **Jupiter Star**: A conceptual game where players navigate through the solar system, built with the Godot game engine. This exciting project is currently in the concept phase but shows great promise.
+
 ## License
 
 This project is open source and available under the MIT License.
