@@ -33,6 +33,19 @@ The game is built using standard web technologies:
 - First-click protection
 - Question mark flags
 
+## About the Author
+
+Hello! I'm ukend0464, a developer with a passion for creating games and interactive applications. I started this Minesweeper project as a way to bring the classic game to modern web platforms while keeping the nostalgic feel that many players remember.
+
+### My Projects
+
+I'm currently working on several projects:
+- [Minesweeper](https://github.com/ukend0464/minesweeper) - An open source implementation of the classic Minesweeper game
+- Jupiter Star - A game where you navigate the solar system (private repository)
+- Adventure - My South America travel plans (private repository)
+
+I'm actively looking for contributors to help expand the features of this minesweeper game, so feel free to submit pull requests or open issues with suggestions!
+
 ## License
 
 This project is open source and available under the MIT License.
