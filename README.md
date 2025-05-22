@@ -33,6 +33,10 @@ The game is built using standard web technologies:
 - First-click protection
 - Question mark flags
 
+## Author
+
+This project was created by ukend0464, a web developer passionate about creating interactive games using web technologies. The author is particularly interested in classic games and making them accessible on modern platforms.
+
 ## License
 
 This project is open source and available under the MIT License.
